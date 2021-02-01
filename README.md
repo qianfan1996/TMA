@@ -11,3 +11,7 @@ Multimodal Sentiment Analysis with Temporal Modality Attention
 ```
 git clone https://github.com/qianfan1996/TMA.git
 ```
+## You can run the code with
+```
+python test_mosi.py 
+```
