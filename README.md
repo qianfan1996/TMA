@@ -5,3 +5,5 @@ Multimodal Sentiment Analysis with Temporal Modality Attention
 * torch 1.4.0
 * scikit-learn 0.23.2
 * tqdm 4.54.0
+* numpy 1.19.4
+* visdom 0.1.8.9
