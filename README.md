@@ -7,3 +7,7 @@ Multimodal Sentiment Analysis with Temporal Modality Attention
 * tqdm 4.54.0
 * numpy 1.19.4
 * visdom 0.1.8.9
+## The next step is to clone the repository:
+```
+git clone https://github.com/qianfan1996/TMA.git
+```
