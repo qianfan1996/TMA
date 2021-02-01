@@ -16,4 +16,4 @@ git clone https://github.com/qianfan1996/TMA.git
 ```
 python test_mosi.py 
 ```
-in the command line. 
+in the command line. The default is to train MFN with TMA module, and gives a CMU-MOSI test set MAE of 0.960, binary classification accuracy of 77.4%. In addition, you can change  command-line arguments: -m [mfn/tman1/marn/tman2] set model types; -t set train or test.
